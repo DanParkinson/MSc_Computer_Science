@@ -2,12 +2,12 @@
 
 [↑ Back to top](#table-of-contents)
 
-| Learning Outcome | MLO Mapping | Done | Note |
-| ---------------- | ----------- | ---- | ---- |
-|                  |             |      |      |
-|                  |             |      |      |
-|                  |             |      |      |
-|                  |             |      |      |
+| Learning Outcome | MLO Mapping | Notes | Done |
+| ---------------- | ----------- | ----- | ---- |
+|                  |             |       |      |
+|                  |             |       |      |
+|                  |             |       |      |
+|                  |             |       |      |
 
 #### Tasks
 
@@ -31,12 +31,8 @@
 
 #### Exercises
 
-| Code | Exercise | Files | Done |
-| ---- | -------- | ----- | ---- |
-|      |          |       |      |
-|      |          |       |      |
-|      |          |       |      |
-|      |          |       |      |
-|      |          |       |      |
+| Files |
+| ----- |
+|       |
 
 ---

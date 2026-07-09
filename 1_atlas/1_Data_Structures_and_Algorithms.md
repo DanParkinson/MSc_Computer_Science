@@ -12,14 +12,10 @@ Start Date: 19/06
 - [Overview](#overview)
 - [Assessments](#assessments)
 - [Module Learning Outcomes](#module-learning-outcomes)
+- [Data Structures](#data-structures)
+- [Algorithms](#algorithms)
 - [Week 1](#week-1)
 - [Week 2](#week-2)
-- [Week 3](#week-3)
-- [Week 4](#week-4)
-- [Week 5](#week-5)
-- [Week 6](#week-6)
-- [Week 7](#week-7)
-- [Week 8](#week-8)
 
 ## Overview
 
@@ -32,7 +28,6 @@ Start Date: 19/06
 | 5    | Non-Linear Data  - Trees                                        | 27/07      |                   |            |
 | 6    | Sorting, Divide and Conquer Algorithms, Error Handling          | 03/08      |                   |            |
 | 7    | Non-Linear Data Structures - Graphs                             | 10/08      |                   |            |
-
 
 ### Assessments
 
@@ -54,16 +49,46 @@ Start Date: 19/06
 
 ---
 
+### Data Structures
+
+Linear
+
+| Title                                  | Source                                                         |
+| -------------------------------------- | -------------------------------------------------------------- |
+| [Arrays](/2_content/2_Notes/Arrays.md) | Data Structures and Algorithms In Python 4.1.3, 5.2, 5.3-5.3.1 |
+| [Bit Vectors]                          | Alogrithm Design Manual 15.5                                   |
+
+Non-Linear
+
+| Title                                              | Source |
+| -------------------------------------------------- | ------ |
+| [Binary Trees](/2_content/2_Notes/Binary_Trees.md) |        |
+
+### Algorithms
+
+| Type         | Files                                                           | Notes                          |
+| ------------ | --------------------------------------------------------------- | ------------------------------ |
+| Sort         | [Selection Sort](/4_Exercises/1_Algorithms/1_selection_sort.py) |                                |
+| Sort         | [Insertion Sort](/4_Exercises/1_Algorithms/2_insertion_sort.py) |                                |
+| Mathematical | [Euclids Algorithm](/4_Exercises/1_Algorithms/Euclids_Algorithm.py)|                             |
+| Numerical    | [Pairwise Addition of numbers](/4_Exercises/1_Algorithms/Pairwise_addition_of_numbers.py)                                    |                                |
+| Optimization | Set Cover Problem                                               | Algorithm Design Manual 21.1   |
+| Optimization | Simulated Annealing                                             | Algorithm Design Manual 12.6.3 |
+| Search       | Randomized Search                                               |                                |
+| Search       | Exhaustive Search ( Brute Force)                                |                                |
+| Serach       | Depth-First Search                                              |                                |
+| Search       | Breadth-First Search                                            |                                |
+
 ### Week 1
 
 [↑ Back to top](#table-of-contents)
 
-| Learning Outcome                                                       | MLO Mapping | Done | Note      |
-| ---------------------------------------------------------------------- | ----------- | ---- | --------- |
-| Explain what an algorithm is                                           | MLO 1       |      |           |
-| Apply algorithms to develop step-by-step solutions for a given problem | MLO 1       |      |           |
-| Translate/Express algorithms in plain English                          | MLO 1       |      |           |
-| Develop the first program in Python                                    | MLO 3       |      |           |
+| Learning Outcome                                                       | MLO Mapping |
+| ---------------------------------------------------------------------- | ----------- |
+| Explain what an algorithm is                                           | MLO 1       |
+| Apply algorithms to develop step-by-step solutions for a given problem | MLO 1       |
+| Translate/Express algorithms in plain English                          | MLO 1       |
+| Develop the first program in Python                                    | MLO 3       |
 
 Tasks
 
@@ -86,3 +111,41 @@ Exercises
 | --------------------------------------------------------------- |
 | [Selection Sort](/4_Exercises/1_Algorithms/1_selection_sort.py) |
 | [Insertion Sort](/4_Exercises/1_Algorithms/2_insertion_sort.py) |
+
+### Week 2
+
+[↑ Back to top](#table-of-contents)
+
+| Learning Outcome                                                      | MLO Mapping |
+| --------------------------------------------------------------------- | ----------- |
+| Explain what a Data Structure is and its relationship with algorithms | MLO 1       |
+| Identify which Data Structure is better suited for a given problem    | MLO 1       |
+| Explain what search-efficient Data Structures are                     | MLO 1       |
+| Compare and contrast linear search and binary search                  | MLO 1       |
+| Implement Python flow-control structures                              | MLO 3       |
+
+#### Tasks
+
+| Resource                                 | Goal                      | Notes | Done               |
+| ---------------------------------------- | ------------------------- | ----- | ------------------ |
+| Algorithm Design Manual                  | Sections 1.5 - 1.9        |       | :white_check_mark: |
+| Algorithm Design Manual                  | pages 17 - 22             |       | :white_check_mark: |
+| Data Structures and Algorithms in python | 4.1.3, 5.2, 5.3, 5.3.1    |       |                    |
+| Data Structures and Algorithms in python | Recursion 155 - 157       |       |                    |
+| Data Structures and Algorithms in python | Array Sequences 185 - 196 |       |                    |
+
+#### Theory
+
+| Code | Concept                                                                                      |
+| ---- | -------------------------------------------------------------------------------------------- |
+| 2.2  | [Introduction to Data Structures](/2_content/2_Notes/2.2_Introduction_to_Data_structures.md) |
+| 2.3  | Flow-Control Structures                                                                      |
+| 2.4  | [Programming Exercises](/4_Exercises/2_Exercises/2_4.py)                                     |
+
+#### Exercises
+
+| Files                                                                 |
+| --------------------------------------------------------------------- |
+| [Lottery Ticket Psychic](/4_Exercises/3_Problems/1_lottery_ticket.py) |
+
+---
