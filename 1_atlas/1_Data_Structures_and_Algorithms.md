@@ -70,6 +70,7 @@ Non-Linear
 | ------------ | --------------------------------------------------------------- | ------------------------------ |
 | Sort         | [Selection Sort](/4_Exercises/1_Algorithms/1_selection_sort.py) |                                |
 | Sort         | [Insertion Sort](/4_Exercises/1_Algorithms/2_insertion_sort.py) |                                |
+| Sort         | [Bubble Sort](/4_Exercises/1_Algorithms/Bubble_sort.py)         |                                |
 | Mathematical | [Euclids Algorithm](/4_Exercises/1_Algorithms/Euclids_Algorithm.py)|                             |
 | Numerical    | [Pairwise Addition of numbers](/4_Exercises/1_Algorithms/Pairwise_addition_of_numbers.py)                                    |                                |
 | Optimization | Set Cover Problem                                               | Algorithm Design Manual 21.1   |
@@ -78,6 +79,7 @@ Non-Linear
 | Search       | Exhaustive Search ( Brute Force)                                |                                |
 | Serach       | Depth-First Search                                              |                                |
 | Search       | Breadth-First Search                                            |                                |
+| Search       | [Binary Search](/4_Exercises/1_Algorithms/Binary_Search.py)     |                                |
 
 ### Week 1
 
@@ -124,7 +126,7 @@ Exercises
 | Compare and contrast linear search and binary search                  | MLO 1       |
 | Implement Python flow-control structures                              | MLO 3       |
 
-#### Tasks
+Tasks
 
 | Resource                                 | Goal                      | Notes | Done               |
 | ---------------------------------------- | ------------------------- | ----- | ------------------ |
@@ -134,7 +136,7 @@ Exercises
 | Data Structures and Algorithms in python | Recursion 155 - 157       |       |                    |
 | Data Structures and Algorithms in python | Array Sequences 185 - 196 |       |                    |
 
-#### Theory
+Theory
 
 | Code | Concept                                                                                      |
 | ---- | -------------------------------------------------------------------------------------------- |
@@ -142,10 +144,46 @@ Exercises
 | 2.3  | Flow-Control Structures                                                                      |
 | 2.4  | [Programming Exercises](/4_Exercises/2_Exercises/2_4.py)                                     |
 
-#### Exercises
+Exercises
 
 | Files                                                                 |
 | --------------------------------------------------------------------- |
 | [Lottery Ticket Psychic](/4_Exercises/3_Problems/1_lottery_ticket.py) |
+
+---
+
+### Week 3
+
+[↑ Back to top](#table-of-contents)
+
+| Learning Outcome                                                                 | MLO Mapping | Notes | Done |
+| -------------------------------------------------------------------------------- | ----------- | ----- | ---- |
+| Construct pseudocodes to solve computational problems.                           | MLO1        |       |      |
+| Evaluate algorithm performances through asymptotic analysis using Big-O notation.| MLO2        |       |      |
+| Develop functions in Python to design modular programs                           | MLO3        |       |      |
+| Develop and apply test cases to evaluate the validity of programs                | MLO4        |       |      |
+
+Tasks
+
+| Resource | Goal | Notes | Done |
+| -------- | ---- | ----- | ---- |
+| Data Structures & Algorithms in Python | 3.3, 3.4     |       |      |
+
+Theory
+
+| Code | Concept |
+| ---- | ------- |
+| 3.1  | [PseudoCode](/2_content/2_Notes/3.1_Pseudocode.md)       |
+| 3.2  | [The RAM model of computation and Big O noatation](/2_content/2_Notes/3.2_RAM_and_Big_O.md)      |
+| 3.3  |         |
+| 3.4  |         |
+| 3.5  | [Duplication Detection](/4_Exercises/2_Exercises/3_5.py)       |
+| 3.8  | [Programming Exercises](/4_Exercises/2_Exercises/3_8.py) |
+
+Exercises
+
+| Files |
+| ----- |
+| [Duplication Detection](/4_Exercises/2_Exercises/3_5.py)       |
 
 ---
