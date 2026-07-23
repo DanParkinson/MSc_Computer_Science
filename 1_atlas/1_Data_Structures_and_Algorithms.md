@@ -16,6 +16,8 @@ Start Date: 19/06
 - [Algorithms](#algorithms)
 - [Week 1](#week-1)
 - [Week 2](#week-2)
+- [Week 3](#week-3)
+- [Week 4](#week-4)
 
 ## Overview
 
@@ -23,8 +25,8 @@ Start Date: 19/06
 | ---- | --------------------------------------------------------------- | ---------- | ----------------- | ---------- |
 | 1    | Algorithms, Problem Solving                                     | 29/06      | :white_check_mark:|            |
 | 2    | Data Structures, Search, Flow-Control                           | 06/07      | :white_check_mark:|            |
-| 3    | Pseudo-Code, Asymptotic Analysis, Big - O, Functions            | 13/07      |                   |            |
-| 4    | Linear Abstract Data Structures, Classes and Data Encapsulation | 20/07      |                   |            |
+| 3    | Pseudo-Code, Asymptotic Analysis, Big - O, Functions            | 13/07      | :white_check_mark:|            |
+| 4    | Linear Abstract Data Structures, Classes and Data Encapsulation | 20/07      | :white_check_mark:|            |
 | 5    | Non-Linear Data  - Trees                                        | 27/07      |                   |            |
 | 6    | Sorting, Divide and Conquer Algorithms, Error Handling          | 03/08      |                   |            |
 | 7    | Non-Linear Data Structures - Graphs                             | 10/08      |                   |            |
@@ -56,7 +58,8 @@ Linear
 | Title                                  | Source                                                         |
 | -------------------------------------- | -------------------------------------------------------------- |
 | [Arrays](/2_content/2_Notes/Arrays.md) | Data Structures and Algorithms In Python 4.1.3, 5.2, 5.3-5.3.1 |
-| [Bit Vectors]                          | Alogrithm Design Manual 15.5                                   |
+| [Stacks](/4_Exercises/3_Problems/2_stack.py)                         |                                   |
+| [Linked Lists](/4_Exercises/3_Problems/3_linked_lists.py)                         |  |
 
 Non-Linear
 
@@ -80,6 +83,8 @@ Non-Linear
 | Serach       | Depth-First Search                                              |                                |
 | Search       | Breadth-First Search                                            |                                |
 | Search       | [Binary Search](/4_Exercises/1_Algorithms/Binary_Search.py)     |                                |
+
+---
 
 ### Week 1
 
@@ -114,6 +119,8 @@ Exercises
 | [Selection Sort](/4_Exercises/1_Algorithms/1_selection_sort.py) |
 | [Insertion Sort](/4_Exercises/1_Algorithms/2_insertion_sort.py) |
 
+---
+
 ### Week 2
 
 [↑ Back to top](#table-of-contents)
@@ -132,9 +139,9 @@ Tasks
 | ---------------------------------------- | ------------------------- | ----- | ------------------ |
 | Algorithm Design Manual                  | Sections 1.5 - 1.9        |       | :white_check_mark: |
 | Algorithm Design Manual                  | pages 17 - 22             |       | :white_check_mark: |
-| Data Structures and Algorithms in python | 4.1.3, 5.2, 5.3, 5.3.1    |       |                    |
-| Data Structures and Algorithms in python | Recursion 155 - 157       |       |                    |
-| Data Structures and Algorithms in python | Array Sequences 185 - 196 |       |                    |
+| Data Structures and Algorithms in python | 4.1.3, 5.2, 5.3, 5.3.1    |       | :white_check_mark: |
+| Data Structures and Algorithms in python | Recursion 155 - 157       |       | :white_check_mark: |
+| Data Structures and Algorithms in python | Array Sequences 185 - 196 |       | :white_check_mark: |
 
 Theory
 
@@ -167,7 +174,7 @@ Tasks
 
 | Resource | Goal | Notes | Done |
 | -------- | ---- | ----- | ---- |
-| Data Structures & Algorithms in Python | 3.3, 3.4     |       |      |
+| Data Structures & Algorithms in Python | 3.3, 3.4     |       | :white_check_mark: |
 
 Theory
 
@@ -175,8 +182,6 @@ Theory
 | ---- | ------- |
 | 3.1  | [PseudoCode](/2_content/2_Notes/3.1_Pseudocode.md)       |
 | 3.2  | [The RAM model of computation and Big O noatation](/2_content/2_Notes/3.2_RAM_and_Big_O.md)      |
-| 3.3  |         |
-| 3.4  |         |
 | 3.5  | [Duplication Detection](/4_Exercises/2_Exercises/3_5.py)       |
 | 3.8  | [Programming Exercises](/4_Exercises/2_Exercises/3_8.py) |
 
@@ -185,5 +190,38 @@ Exercises
 | Files |
 | ----- |
 | [Duplication Detection](/4_Exercises/2_Exercises/3_5.py)       |
+
+---
+
+### Week 4
+
+[↑ Back to top](#table-of-contents)
+
+| Learning Outcome                                                                                          | MLO Mapping | Notes | Done |
+| --------------------------------------------------------------------------------------------------------- | ----------- | ----- | ---- |
+| Identify and describe abstract data types                                                                 | MLO 1,3     |       |      |
+| Describe the structure and operations of linear data structures  such as stacks, queues, and linked lists | MLO 2,3     |       |      |
+| Use OOP concepts such as data encapsulation and information hididng                                       | MLO 3       |       |      |
+| Compare and contrast different implemntations of linear data structures in Python                         | MLO 3       |       |      |
+
+#### Tasks
+
+| Resource | Goal | Notes | Done |
+| -------- | ---- | ----- | ---- |
+
+
+#### Theory
+
+| Code | Concept |
+| ---- | ------- |
+| [OOP](/2_content/2_Notes/4_2_OOP.md)     |         |
+| [Dunder Methods](/2_content/2_Notes/4_3_Dunder_mehtods.md)     |         |
+| [Programming Exercises](/4_Exercises/2_Exercises/4_3.py)    |         |
+
+#### Exercises
+
+| Files |
+| ----- |
+| [Stack](/4_Exercises/3_Problems/2_stack.py)      |
 
 ---
